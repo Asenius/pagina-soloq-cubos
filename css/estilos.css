@@ -105,6 +105,13 @@ aside#izq{
 	background:#333;
 	}
 	
+a > img{
+	position:absolute;
+	width:130px;
+	top:10px;
+	left:10px;
+	}
+	
 article{
 	position:absolute;
 	left:150px;
