@@ -105,11 +105,15 @@ aside#izq{
 	background:#333;
 	}
 	
-#rickroll{
+aside > a{
 	position:absolute;
 	width:130px;
 	top:10px;
 	left:10px;
+	}
+	
+#rickroll{
+	width:130px;
 	}
 	
 article{
